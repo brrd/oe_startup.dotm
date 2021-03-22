@@ -4,8 +4,6 @@
 
 Il s'agit d'une adaptation de la macro https://github.com/OpenEdition/revuesorg_word_templates/tree/master/src/startup pour les versions 5.x des modèles OpenEdition (https://github.com/OpenEdition/templates.openedition).
 
-⚠️ **Cette macro n'a pas été testée sur Mac** (mais ça fonctionne en théorie).
-
 ## Installation
 
 Fermer Word.
