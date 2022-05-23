@@ -8,7 +8,9 @@ Il s'agit d'une adaptation de la macro https://github.com/OpenEdition/revuesorg_
 
 Fermer Word.
 
-Copier `oe_startup.dotm` dans le répertoire des "Fichiers de démarrage" de Word. Ce répertoire est différent selon la version de Word. Pour le connaître, consulter l'option "Emplacement des fichiers" dans les options avancées de Word.
+[Télécharger le fichier  `oe_startup.dotm`](https://github.com/brrd/oe_startup.dotm/raw/master/oe_startup.dotm).
+
+Le copier dans le répertoire des "Fichiers de démarrage" de Word. Ce répertoire est différent selon la version de Word. Pour le connaître, consulter l'option "Emplacement des fichiers" dans les options avancées de Word.
 
 💡 Exemple : le chemin pour Word 2016 sur Windows est `\AppData\Roaming\Microsoft\Word\STARTUP`.
 
